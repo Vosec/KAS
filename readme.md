@@ -1,0 +1,1 @@
+Kódování a šifrování
